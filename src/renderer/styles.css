@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .search-highlight {
+    background-color: #fde047;
+    font-weight: 700;
+  }
+}
